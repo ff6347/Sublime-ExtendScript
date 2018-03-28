@@ -1,0 +1,3 @@
+{
+    "shell_cmd": "osascript -e 'tell application id \"com.adobe.Photoshop\" to do javascript alias \"$file\"'"
+}

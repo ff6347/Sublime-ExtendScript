@@ -1,0 +1,3 @@
+{
+    "shell_cmd": "osascript -e 'tell application id \"com.adobe.indesign\" to do script POSIX file \"$file\" language javascript'"
+}
